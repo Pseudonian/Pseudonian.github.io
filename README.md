@@ -1,2 +1,0 @@
-# synergism
-The game
